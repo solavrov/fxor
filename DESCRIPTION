@@ -1,0 +1,13 @@
+Package: fxor
+Type: Package
+Title: Simulate rabalancing of currency structure with fx options
+Version: 0.2.1
+Author: Stas Lavrov
+Maintainer: Stas Lavrov <lavrovso@cbr.ru>
+Description: The package simulates rabalancing of currency structure of two-currency portfolio 
+ (eur and usd) with fx options
+License: FREE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: hlpr, fsim, fval
